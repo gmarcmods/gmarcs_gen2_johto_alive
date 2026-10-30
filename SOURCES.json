@@ -1,0 +1,131 @@
+{
+  "product": {
+    "id": "gmarcs_gen2_johto_alive",
+    "name": "Johto Alive",
+    "version": "1.0.0"
+  },
+  "generated_by": "tools/assemble.py",
+  "features": [
+    {
+      "name": "wilds-of-kanto",
+      "source": "gen1/overworld-spawn-mod",
+      "version": "2.2.0",
+      "options": {
+        "enabled": {
+          "label": "WILD POK\u00c9MON",
+          "help": "Wild Pok\u00e9mon appear on the map instead of only in tall grass."
+        },
+        "sprite_style": {
+          "label": "SPRITE STYLE"
+        },
+        "sprite_fade": {
+          "label": "SPRITE FADE"
+        },
+        "follow_control": {
+          "label": "CONTROL MODE"
+        },
+        "trainer_trail": {
+          "label": "TRAINER TRAIL"
+        },
+        "follower_count": {
+          "label": "FOLLOWERS",
+          "help": "How many party Pok\u00e9mon walk behind you."
+        },
+        "spawn_density": {
+          "label": "SPAWN AMOUNT",
+          "help": "How many wild Pok\u00e9mon spawn around you."
+        },
+        "random_encounters": {
+          "label": "RANDOM ENCOUNTERS"
+        },
+        "water_spawns": {
+          "label": "WATER POK\u00c9MON"
+        },
+        "cave_spawns": {
+          "label": "CAVE SPAWNS"
+        },
+        "town_pokemon": {
+          "label": "TOWN POK\u00c9MON"
+        },
+        "pokemon_grass_render_mode": {
+          "label": "GRASS VIEW"
+        },
+        "wild_silhouettes": {
+          "label": "SILHOUETTES"
+        },
+        "overworld_catching": {
+          "label": "CATCH IN OVERWORLD",
+          "help": "Throw balls at wild Pok\u00e9mon without a battle."
+        },
+        "catch_throw_key": {
+          "label": "CATCH KEY"
+        },
+        "catch_cycle_key": {
+          "label": "SWITCH BALL KEY"
+        },
+        "catch_throw_combo": {
+          "label": "CATCH COMBO"
+        },
+        "catch_cycle_combo": {
+          "label": "SWITCH COMBO"
+        },
+        "catch_hud_size": {
+          "label": "CATCH HUD SIZE"
+        },
+        "enable_idle": {
+          "label": "IDLE POK\u00c9MON"
+        },
+        "enable_wander": {
+          "label": "ROAMING"
+        },
+        "enable_aggressive": {
+          "label": "AGGRESSIVE"
+        },
+        "enable_hidden": {
+          "label": "HIDDEN POK\u00c9MON"
+        },
+        "dev_overlay": {
+          "label": "DEV OVERLAY",
+          "help": "Debug drawing; leave off."
+        }
+      },
+      "priority": 80,
+      "commit": "cc2aa6a870fc",
+      "digest": "22dbacea28c839170ef64e7e90d22bf60d82a82260e2442a7fc0d8743e9bc617"
+    },
+    {
+      "name": "free-fly",
+      "source": "shared/free-fly",
+      "version": "1.8.4",
+      "options": {
+        "altitude": {
+          "label": "FLY ALTITUDE",
+          "help": "How high you fly; MED clears rooftops in voxel view."
+        },
+        "size": {
+          "label": "FLY SIZE"
+        },
+        "motion": {
+          "label": "FLY MOTION",
+          "help": "Animate the ride instead of sliding."
+        }
+      },
+      "priority": 100,
+      "commit": "eaabd0061bda",
+      "digest": "f9e851e7be3c0e63ece34c078fb1db399b10f20bc8edfa9340c7edaa555e7a8e"
+    },
+    {
+      "name": "wild-skies",
+      "source": "shared/wild-skies",
+      "version": "1.12.3",
+      "options": {
+        "motion": {
+          "label": "BIRD MOTION"
+        }
+      },
+      "priority": 110,
+      "commit": "81b43b17124f",
+      "digest": "09a571a5f240d283774cb971cc7bf34891e69252a85929b009a46402bc7f1732"
+    }
+  ]
+}

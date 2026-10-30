@@ -1,0 +1,145 @@
+{
+  "modkit": "1.0.0",
+  "packed_at": "2026-09-13T19:27:39Z",
+  "id": "wild_skies",
+  "version": "1.12.1",
+  "api": 2,
+  "engine_range": "0.0.0-dev || >=0.1.0 <2.0.0",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 23995,
+      "sha256": "3f21f198cfc3b63b10eeda4ed6579eb3a50a01075d4db2e35b6bfc11cb303b23"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6414,
+      "sha256": "7b6f388d8d66cd747a0749903c2984d10450fd83750cece639c236e7dfa3ab3b"
+    },
+    {
+      "path": "lib/shared/skylib.lua",
+      "bytes": 56289,
+      "sha256": "29fa5729d4ea7093b0a80dea1d0ae26dffcceadcd192135f7fb3d8e00ec0f8a4"
+    },
+    {
+      "path": "lib/skydex.lua",
+      "bytes": 16726,
+      "sha256": "6bcb4f3fab2bb9ece4e4094975e0bf2bf384cc4fa8c7921e3b814361de5dcfe3"
+    },
+    {
+      "path": "main.lua",
+      "bytes": 99768,
+      "sha256": "c8138a6f68a9ec8849cb6212558d9f6d73b76cf070d8218ef2e14b743f0eb6eb"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 558,
+      "sha256": "21ee10c164faf7059b83e12d3a7828e6232fc0592287e0a6d04b9c03435480fe"
+    },
+    {
+      "path": "mod.card",
+      "bytes": 981,
+      "sha256": "0b77649216113887c5a667d4f069ac20be540fdd9c7cd412fd8816b00ec6f349"
+    },
+    {
+      "path": "tests/sky_family_solo_tick_test.lua",
+      "bytes": 5115,
+      "sha256": "0b112574d6f3d170c1c09fbb7ddb421f96f7de6bbfdf3e2efc52641840b5326c"
+    },
+    {
+      "path": "tests/skylib_facing_test.lua",
+      "bytes": 1956,
+      "sha256": "7c8ec411cc8e576fee401b56554e2e8bbcf6ea1041ee2dc7b41d523ddfd50544"
+    },
+    {
+      "path": "tests/skylib_gen2_shapes_test.lua",
+      "bytes": 13680,
+      "sha256": "88968d722d8a63604b4bc4f43e0e7f72232885c85f88dee2d89c003eba230f98"
+    },
+    {
+      "path": "tests/skylib_player_cell_heal_test.lua",
+      "bytes": 2562,
+      "sha256": "84a710beca23cea315425f47eaf1f81c381a2318cf9ade5da0909d46e225bfaf"
+    },
+    {
+      "path": "tests/skylib_portrait_card_test.lua",
+      "bytes": 5709,
+      "sha256": "3650bcc9170b5db5bee37777384aced3f815645e532bc1227f43ff80b5eb09e9"
+    },
+    {
+      "path": "tests/skylib_sources_test.lua",
+      "bytes": 9804,
+      "sha256": "a4439bd3848f04cf6e8338a0d5868493fce41341357def18b65597e132ec83bb"
+    },
+    {
+      "path": "tests/wild_skies_crystal_test.lua",
+      "bytes": 8521,
+      "sha256": "54051a0886fa9f1a980577c7eb96b865417e7d596b5aa1a929273594eea6a6f5"
+    },
+    {
+      "path": "tests/wild_skies_encounter_attribution_test.lua",
+      "bytes": 5002,
+      "sha256": "c2c70f46541d1bb96cd3cdfd3b4565e0e5105fe92e02cd1adfab7513daa6ff21"
+    },
+    {
+      "path": "tests/wild_skies_exports_test.lua",
+      "bytes": 1119,
+      "sha256": "eca82243ab0f3d9237ef93122af10670038b1da5ba8aad6ff9cbdb53fe0c08fb"
+    },
+    {
+      "path": "tests/wild_skies_flock_test.lua",
+      "bytes": 3559,
+      "sha256": "d7429ee1fc3ce89ae15436c846df2266e8eec97a149a379aca08e6e87740319b"
+    },
+    {
+      "path": "tests/wild_skies_gen2_load_test.lua",
+      "bytes": 927,
+      "sha256": "4bc3be89e9a1e68b1e53fd3cb6b2e89da7660788b1f9a3b86cdef3d7c747127b"
+    },
+    {
+      "path": "tests/wild_skies_gold_seam_test.lua",
+      "bytes": 5664,
+      "sha256": "dc87df11cb25a620578bfa1ca8e60addd1dc02e56e06de8ade707e204fcb46f0"
+    },
+    {
+      "path": "tests/wild_skies_load_test.lua",
+      "bytes": 710,
+      "sha256": "35f6bfb77344a02912354a5c7d5adbc87a5b479c745c11d827ea0c3c828b0a84"
+    },
+    {
+      "path": "tests/wild_skies_shared_provider_test.lua",
+      "bytes": 9461,
+      "sha256": "ff7c05d937612092a663edcbe5965df8ff95fa06e65334c5e777f7d22326c8af"
+    },
+    {
+      "path": "tests/wild_skies_skydex_test.lua",
+      "bytes": 4923,
+      "sha256": "51f8ade0459dc73fa23073654b05ff9b92e6c3a4c3285be25f22a95df1c73351"
+    },
+    {
+      "path": "tests/wild_skies_summon_test.lua",
+      "bytes": 3335,
+      "sha256": "0974d384e35c586df27f711e5f0773e77e2e84662359b628afa59791ca84b503"
+    },
+    {
+      "path": "tests/wild_skies_ultra_rare_test.lua",
+      "bytes": 3251,
+      "sha256": "ec167772280d5f155b830023ca360b415333980e416c03e5b2309bdb9d8c976e"
+    },
+    {
+      "path": "tests/wild_skies_voxel_ghost_test.lua",
+      "bytes": 3506,
+      "sha256": "c5a1ae14d333f768d5a0202b027461998452e111a38fbd135a0849b68a298d67"
+    },
+    {
+      "path": "tests/wild_skies_wrap_heal_test.lua",
+      "bytes": 5635,
+      "sha256": "ef023bb37e92d4eafa2bf62803f9f68e9a853d8bb6ec7f55967f949db3771417"
+    }
+  ],
+  "lint": {
+    "no_rom_content": "pass",
+    "schema": "pass",
+    "cross_refs": "pass"
+  }
+}

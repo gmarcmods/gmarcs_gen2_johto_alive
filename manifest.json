@@ -1,0 +1,27 @@
+{
+  "id": "gmarcs_gen2_johto_alive",
+  "name": "Johto Alive",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.1.37 <2.0.0",
+  "priority": 120,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [
+    "free_fly",
+    "wild_skies",
+    "overworld_wild_spawns"
+  ],
+  "affects_link": false,
+  "github": "gmarcmods/gmarcs_gen2_johto_alive",
+  "description": "Johto feels alive on Gold, Silver and Crystal: wild Pokémon on the map, birds overhead, and a party Pokémon that can fly you anywhere. Each part has its own setting.",
+  "games": [
+    "gen2"
+  ]
+}
