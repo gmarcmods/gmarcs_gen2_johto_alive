@@ -1,7 +1,7 @@
 {
   "id": "gmarcs_gen2_johto_alive",
-  "name": "Johto Alive",
-  "version": "1.0.0",
+  "name": "Gmarc's Gen 2 Johto Alive",
+  "version": "1.0.1",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
@@ -20,7 +20,7 @@
   ],
   "affects_link": false,
   "github": "gmarcmods/gmarcs_gen2_johto_alive",
-  "description": "Johto feels alive on Gold, Silver and Crystal: wild Pokémon on the map, birds overhead, and a party Pokémon that can fly you anywhere. Each part has its own setting.",
+  "description": "Johto feels alive on Gold, Silver and Crystal: wild Pok\u00e9mon on the map, birds overhead, and a party Pok\u00e9mon that can fly you anywhere. Each part has its own setting.",
   "games": [
     "gen2"
   ]

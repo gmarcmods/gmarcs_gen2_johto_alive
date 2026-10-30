@@ -1,4 +1,4 @@
-# Johto Alive
+# Gmarc's Gen 2 Johto Alive
 
 Three mods in one install for Gold, Silver and Crystal, so the world outside
 battles feels inhabited.
